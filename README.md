@@ -43,5 +43,5 @@ Contains all data used in Roth et al (submitted to PNAS, 2020)<sup><b><i>(1)</i>
 
 <b>(1)</b> This project was supported by funding from the National Science Foundation (EAR-1420898 and Postdoctoral Fellowship 1625311). 
 
-<b>(2)</b> Lidar data accquired and preprocessed by UNAVCO. Raw lidar data is available in the UNAVCO online data archive (doi:10.7283/R3W38X).
+<b>(2)</b> Lidar data acquired and preprocessed by UNAVCO. Raw lidar data is available in the UNAVCO online data archive (doi:10.7283/R3W38X).
 
