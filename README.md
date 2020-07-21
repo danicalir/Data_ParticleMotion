@@ -1,6 +1,6 @@
 # Data_ParticleMotion
 
-Contains all data used in Roth et al (submitted to PNAS, 2020)<sup><b><i>(1)</i></b></sup>. For scripts used to process data and produce figures, see https://github.com/danicalir/LomaxTools. Please acknowledge the use of this data in any publications by citing this release.
+Contains all data used in Roth et al (submitted to PNAS, 2020): Particle motion on burned and vegetated hillslopes<sup><b><i>(1)</i></b></sup>. For scripts used to process data and produce figures, see https://github.com/danicalir/LomaxTools. Please acknowledge the use of this data in any publications by citing this release.
 
 <br>
 
