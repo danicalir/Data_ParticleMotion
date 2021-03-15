@@ -1,7 +1,7 @@
 # Data_ParticleMotion
 
 Contains all data used in Roth et al (2020): Particle motion on burned and vegetated hillslopes<sup><b><i>(1)</i></b></sup>. 
-![image](https://user-images.githubusercontent.com/39476277/111223448-c7e80580-85a2-11eb-9538-2b21fa294770.png)
+Roth, DL, Doane, T, Roering, JJ, Furbish, DJ, Zettler-Mann, A. (2020). Particle motion on burned and vegetated hillslopes. Proceedings of the National Academy of Sciences, 117(41) 25335-25343; DOI: 10.1073/pnas.1922495117
 
 For scripts used to process data and produce figures, see https://github.com/danicalir/LomaxTools. Please acknowledge the use of this data in any publications by citing this release. (Licensed under Creative Commons Attribution Share Alike 4.0 International. See included LICENSE file.)
 
